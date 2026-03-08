@@ -1,0 +1,158 @@
+<template>
+    <div class="text-center text-4xl font-black font-serif">
+        XVIII
+    </div>
+    <div v-if="show_subtext" class="text-center text-2xl font-bold font-serif">
+        <div class="h-4"></div>
+        Away to the South
+    </div>
+    <div class="h-16"></div>
+    <div>
+Dorothy wept bitterly at the passing of her hope to get home to Kansas again; but when she thought it all over she was glad she had not gone up in a balloon. And she also felt sorry at losing Oz, and so did her companions.
+</div>
+<div>
+The Tin Woodman came to her and said:
+</div>
+<div>
+“Truly I should be ungrateful if I failed to mourn for the man who gave me my lovely heart. I should like to cry a little because Oz is gone, if you will kindly wipe away my tears, so that I shall not rust.”
+</div>
+<div>
+“With pleasure,” she answered, and brought a towel at once. Then the Tin Woodman wept for several minutes, and she watched the tears carefully and wiped them away with the towel. When he had finished, he thanked her kindly and oiled himself thoroughly with his jeweled oilcan, to guard against mishap.
+</div>
+<div>
+The Scarecrow was now the ruler of the Emerald City, and although he was not a Wizard the people were proud of him. “For,” they said, “there is not another city in all the world that is ruled by a stuffed man.” And, so far as they knew, they were quite right.
+</div>
+<div>
+The morning after the balloon had gone up with Oz, the four travelers met in the Throne Room and talked matters over. The Scarecrow sat in the big throne and the others stood respectfully before him.
+</div>
+<div>
+“We are not so unlucky,” said the new ruler, “for this Palace and the Emerald City belong to us, and we can do just as we please. When I remember that a short time ago I was up on a pole in a farmer’s cornfield, and that now I am the ruler of this beautiful City, I am quite satisfied with my lot.”
+</div>
+<div>
+“I also,” said the Tin Woodman, “am well-pleased with my new heart; and, really, that was the only thing I wished in all the world.”
+</div>
+<div>
+“For my part, I am content in knowing I am as brave as any beast that ever lived, if not braver,” said the Lion modestly.
+</div>
+<div>
+“If Dorothy would only be contented to live in the Emerald City,” continued the Scarecrow, “we might all be happy together.”
+</div>
+<div>
+“But I don’t want to live here,” cried Dorothy. “I want to go to Kansas, and live with Aunt Em and Uncle Henry.”
+</div>
+<div>
+“Well, then, what can be done?” inquired the Woodman.
+</div>
+<div>
+The Scarecrow decided to think, and he thought so hard that the pins and needles began to stick out of his brains. Finally he said:
+</div>
+<div>
+“Why not call the Winged Monkeys, and ask them to carry you over the desert?”
+</div>
+<div>
+“I never thought of that!” said Dorothy joyfully. “It’s just the thing. I’ll go at once for the Golden Cap.”
+</div>
+<div>
+When she brought it into the Throne Room she spoke the magic words, and soon the band of Winged Monkeys flew in through the open window and stood beside her.
+</div>
+<div>
+“This is the second time you have called us,” said the Monkey King, bowing before the little girl. “What do you wish?”
+</div>
+<div>
+“I want you to fly with me to Kansas,” said Dorothy.
+</div>
+<div>
+But the Monkey King shook his head.
+</div>
+<div>
+“That cannot be done,” he said. “We belong to this country alone, and cannot leave it. There has never been a Winged Monkey in Kansas yet, and I suppose there never will be, for they don’t belong there. We shall be glad to serve you in any way in our power, but we cannot cross the desert. Goodbye.”
+</div>
+<div>
+And with another bow, the Monkey King spread his wings and flew away through the window, followed by all his band.
+</div>
+<div>
+Dorothy was ready to cry with disappointment. “I have wasted the charm of the Golden Cap to no purpose,” she said, “for the Winged Monkeys cannot help me.”
+</div>
+<div>
+“It is certainly too bad!” said the tenderhearted Woodman.
+</div>
+<div>
+The Scarecrow was thinking again, and his head bulged out so horribly that Dorothy feared it would burst.
+</div>
+<div>
+“Let us call in the soldier with the green whiskers,” he said, “and ask his advice.”
+</div>
+<div>
+So the soldier was summoned and entered the Throne Room timidly, for while Oz was alive he never was allowed to come farther than the door.
+</div>
+<div>
+“This little girl,” said the Scarecrow to the soldier, “wishes to cross the desert. How can she do so?”
+</div>
+<div>
+“I cannot tell,” answered the soldier, “for nobody has ever crossed the desert, unless it is Oz himself.”
+</div>
+<div>
+“Is there no one who can help me?” asked Dorothy earnestly.
+</div>
+<div>
+“Glinda might,” he suggested.
+</div>
+<div>
+“Who is Glinda?” inquired the Scarecrow.
+</div>
+<div>
+“The Witch of the South. She is the most powerful of all the Witches, and rules over the Quadlings. Besides, her castle stands on the edge of the desert, so she may know a way to cross it.”
+</div>
+<div>
+“Glinda is a Good Witch, isn’t she?” asked the child.
+</div>
+<div>
+“The Quadlings think she is good,” said the soldier, “and she is kind to everyone. I have heard that Glinda is a beautiful woman, who knows how to keep young in spite of the many years she has lived.”
+</div>
+<div>
+“How can I get to her castle?” asked Dorothy.
+</div>
+<div>
+“The road is straight to the South,” he answered, “but it is said to be full of dangers to travelers. There are wild beasts in the woods, and a race of queer men who do not like strangers to cross their country. For this reason none of the Quadlings ever come to the Emerald City.”
+</div>
+<div>
+The soldier then left them and the Scarecrow said:
+</div>
+<div>
+“It seems, in spite of dangers, that the best thing Dorothy can do is to travel to the Land of the South and ask Glinda to help her. For, of course, if Dorothy stays here she will never get back to Kansas.”
+</div>
+<div>
+“You must have been thinking again,” remarked the Tin Woodman.
+</div>
+<div>
+“I have,” said the Scarecrow.
+</div>
+<div>
+“I shall go with Dorothy,” declared the Lion, “for I am tired of your city and long for the woods and the country again. I am really a wild beast, you know. Besides, Dorothy will need someone to protect her.”
+</div>
+<div>
+“That is true,” agreed the Woodman. “My axe may be of service to her; so I also will go with her to the Land of the South.”
+</div>
+<div>
+“When shall we start?” asked the Scarecrow.
+</div>
+<div>
+“Are you going?” they asked, in surprise.
+</div>
+<div>
+“Certainly. If it wasn’t for Dorothy I should never have had brains. She lifted me from the pole in the cornfield and brought me to the Emerald City. So my good luck is all due to her, and I shall never leave her until she starts back to Kansas for good and all.”
+</div>
+<div>
+“Thank you,” said Dorothy gratefully. “You are all very kind to me. But I should like to start as soon as possible.”
+</div>
+<div>
+“We shall go tomorrow morning,” returned the Scarecrow. “So now let us all get ready, for it will be a long journey.”
+</div>
+
+</template>
+
+<script setup>
+
+const show_subtext = true
+
+</script>
